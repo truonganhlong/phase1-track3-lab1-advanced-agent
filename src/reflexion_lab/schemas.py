@@ -14,17 +14,37 @@ class QAExample(BaseModel):
     context: list[ContextChunk]
 
 class JudgeResult(BaseModel):
-    # TODO: Học viên định nghĩa các trường cần thiết cho kết quả đánh giá (score, reason, ...)
-    pass
+    score: float = Field(..., ge=0, le=1)
+    is_correct: bool
+    reason: str
+    
+    failure_mode: Optional[
+        Literal[
+            "entity_drift",
+            "incomplete_multi_hop",
+            "wrong_final_answer",
+            "looping",
+            "hallucination",
+            "none"
+        ]
+    ] = "none"
+    
+    extracted_answer: Optional[str] = None  
+    confidence: Optional[float] = None
 
 class ReflectionEntry(BaseModel):
-    # TODO: Học viên định nghĩa các trường cần thiết cho một mục reflection (attempt_id, lesson, strategy, ...)
-    pass
+    attempt_id: int
+    error_analysis: str 
+    lesson: str
+    strategy: str    
+    improved_answer: Optional[str] = None
+    confidence: Optional[float] = None   
+    timestamp: Optional[int] = None
 
 class AttemptTrace(BaseModel):
     attempt_id: int
     answer: str
-    score: int
+    score: float
     reason: str
     reflection: Optional[ReflectionEntry] = None
     token_estimate: int = 0

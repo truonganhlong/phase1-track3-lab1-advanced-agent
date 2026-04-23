@@ -1,0 +1,1922 @@
+[
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Albert Einstein?",
+        "gold_answer": "Danube",
+        "context": [
+            {
+            "title": "Albert Einstein",
+            "text": "Albert Einstein was born in Ulm."
+            },
+            {
+            "title": "Ulm",
+            "text": "Ulm is associated with the Danube."
+            }
+        ],
+        "qid": "hp9"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Wolfgang Amadeus Mozart?",
+        "gold_answer": "Salzach",
+        "context": [
+            {
+            "title": "Wolfgang Amadeus Mozart",
+            "text": "Wolfgang Amadeus Mozart was born in Salzburg."
+            },
+            {
+            "title": "Salzburg",
+            "text": "Salzburg is associated with the Salzach."
+            }
+        ],
+        "qid": "hp10"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Sigmund Freud?",
+        "gold_answer": "Lubina",
+        "context": [
+            {
+            "title": "Sigmund Freud",
+            "text": "Sigmund Freud was born in Pribor."
+            },
+            {
+            "title": "Pribor",
+            "text": "Pribor is associated with the Lubina."
+            }
+        ],
+        "qid": "hp11"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Franz Kafka?",
+        "gold_answer": "Vltava",
+        "context": [
+            {
+            "title": "Franz Kafka",
+            "text": "Franz Kafka was born in Prague."
+            },
+            {
+            "title": "Prague",
+            "text": "Prague is associated with the Vltava."
+            }
+        ],
+        "qid": "hp12"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Pablo Picasso?",
+        "gold_answer": "Guadalmedina",
+        "context": [
+            {
+            "title": "Pablo Picasso",
+            "text": "Pablo Picasso was born in Malaga."
+            },
+            {
+            "title": "Malaga",
+            "text": "Malaga is associated with the Guadalmedina."
+            }
+        ],
+        "qid": "hp13"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Antoni Gaudi?",
+        "gold_answer": "Francoli",
+        "context": [
+            {
+            "title": "Antoni Gaudi",
+            "text": "Antoni Gaudi was born in Reus."
+            },
+            {
+            "title": "Reus",
+            "text": "Reus is associated with the Francoli."
+            }
+        ],
+        "qid": "hp14"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Niels Bohr?",
+        "gold_answer": "Lakes of Copenhagen",
+        "context": [
+            {
+            "title": "Niels Bohr",
+            "text": "Niels Bohr was born in Copenhagen."
+            },
+            {
+            "title": "Copenhagen",
+            "text": "Copenhagen is associated with the Lakes of Copenhagen."
+            }
+        ],
+        "qid": "hp15"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Hans Christian Andersen?",
+        "gold_answer": "Odense River",
+        "context": [
+            {
+            "title": "Hans Christian Andersen",
+            "text": "Hans Christian Andersen was born in Odense."
+            },
+            {
+            "title": "Odense",
+            "text": "Odense is associated with the Odense River."
+            }
+        ],
+        "qid": "hp16"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Soren Kierkegaard?",
+        "gold_answer": "Lakes of Copenhagen",
+        "context": [
+            {
+            "title": "Soren Kierkegaard",
+            "text": "Soren Kierkegaard was born in Copenhagen."
+            },
+            {
+            "title": "Copenhagen",
+            "text": "Copenhagen is associated with the Lakes of Copenhagen."
+            }
+        ],
+        "qid": "hp17"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Edvard Munch?",
+        "gold_answer": "Lagen",
+        "context": [
+            {
+            "title": "Edvard Munch",
+            "text": "Edvard Munch was born in Loten."
+            },
+            {
+            "title": "Loten",
+            "text": "Loten is associated with the Lagen."
+            }
+        ],
+        "qid": "hp18"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Henrik Ibsen?",
+        "gold_answer": "Skienselva",
+        "context": [
+            {
+            "title": "Henrik Ibsen",
+            "text": "Henrik Ibsen was born in Skien."
+            },
+            {
+            "title": "Skien",
+            "text": "Skien is associated with the Skienselva."
+            }
+        ],
+        "qid": "hp19"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Roald Amundsen?",
+        "gold_answer": "Glomma",
+        "context": [
+            {
+            "title": "Roald Amundsen",
+            "text": "Roald Amundsen was born in Borge."
+            },
+            {
+            "title": "Borge",
+            "text": "Borge is associated with the Glomma."
+            }
+        ],
+        "qid": "hp20"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Joseph Haydn?",
+        "gold_answer": "Leitha",
+        "context": [
+            {
+            "title": "Joseph Haydn",
+            "text": "Joseph Haydn was born in Rohrau."
+            },
+            {
+            "title": "Rohrau",
+            "text": "Rohrau is associated with the Leitha."
+            }
+        ],
+        "qid": "hp21"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Gustav Mahler?",
+        "gold_answer": "Sazava",
+        "context": [
+            {
+            "title": "Gustav Mahler",
+            "text": "Gustav Mahler was born in Kaliste."
+            },
+            {
+            "title": "Kaliste",
+            "text": "Kaliste is associated with the Sazava."
+            }
+        ],
+        "qid": "hp22"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Gregor Mendel?",
+        "gold_answer": "Odra",
+        "context": [
+            {
+            "title": "Gregor Mendel",
+            "text": "Gregor Mendel was born in Heinzendorf."
+            },
+            {
+            "title": "Heinzendorf",
+            "text": "Heinzendorf is associated with the Odra."
+            }
+        ],
+        "qid": "hp23"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Johannes Kepler?",
+        "gold_answer": "Wurm",
+        "context": [
+            {
+            "title": "Johannes Kepler",
+            "text": "Johannes Kepler was born in Weil der Stadt."
+            },
+            {
+            "title": "Weil der Stadt",
+            "text": "Weil der Stadt is associated with the Wurm."
+            }
+        ],
+        "qid": "hp24"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Max Planck?",
+        "gold_answer": "Kiel Fjord",
+        "context": [
+            {
+            "title": "Max Planck",
+            "text": "Max Planck was born in Kiel."
+            },
+            {
+            "title": "Kiel",
+            "text": "Kiel is associated with the Kiel Fjord."
+            }
+        ],
+        "qid": "hp25"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Robert Koch?",
+        "gold_answer": "Innerste",
+        "context": [
+            {
+            "title": "Robert Koch",
+            "text": "Robert Koch was born in Clausthal."
+            },
+            {
+            "title": "Clausthal",
+            "text": "Clausthal is associated with the Innerste."
+            }
+        ],
+        "qid": "hp26"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Carl Linnaeus?",
+        "gold_answer": "Helige a",
+        "context": [
+            {
+            "title": "Carl Linnaeus",
+            "text": "Carl Linnaeus was born in Rashult."
+            },
+            {
+            "title": "Rashult",
+            "text": "Rashult is associated with the Helige a."
+            }
+        ],
+        "qid": "hp27"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What river flows through or alongside the birthplace city of Alfred Nobel?",
+        "gold_answer": "Lake Malaren",
+        "context": [
+            {
+            "title": "Alfred Nobel",
+            "text": "Alfred Nobel was born in Stockholm."
+            },
+            {
+            "title": "Stockholm",
+            "text": "Stockholm is associated with the Lake Malaren."
+            }
+        ],
+        "qid": "hp28"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Tokyo?",
+        "gold_answer": "Pacific Ocean",
+        "context": [
+            {
+            "title": "Tokyo",
+            "text": "Tokyo is the capital of Japan."
+            },
+            {
+            "title": "Japan",
+            "text": "Japan has coastline on the Pacific Ocean."
+            }
+        ],
+        "qid": "hp29"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Bangkok?",
+        "gold_answer": "Gulf of Thailand",
+        "context": [
+            {
+            "title": "Bangkok",
+            "text": "Bangkok is the capital of Thailand."
+            },
+            {
+            "title": "Thailand",
+            "text": "Thailand has coastline on the Gulf of Thailand."
+            }
+        ],
+        "qid": "hp30"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Hanoi?",
+        "gold_answer": "South China Sea",
+        "context": [
+            {
+            "title": "Hanoi",
+            "text": "Hanoi is the capital of Vietnam."
+            },
+            {
+            "title": "Vietnam",
+            "text": "Vietnam has coastline on the South China Sea."
+            }
+        ],
+        "qid": "hp31"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Jakarta?",
+        "gold_answer": "Java Sea",
+        "context": [
+            {
+            "title": "Jakarta",
+            "text": "Jakarta is the capital of Indonesia."
+            },
+            {
+            "title": "Indonesia",
+            "text": "Indonesia has coastline on the Java Sea."
+            }
+        ],
+        "qid": "hp32"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Manila?",
+        "gold_answer": "Philippine Sea",
+        "context": [
+            {
+            "title": "Manila",
+            "text": "Manila is the capital of Philippines."
+            },
+            {
+            "title": "Philippines",
+            "text": "Philippines has coastline on the Philippine Sea."
+            }
+        ],
+        "qid": "hp33"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Canberra?",
+        "gold_answer": "Tasman Sea",
+        "context": [
+            {
+            "title": "Canberra",
+            "text": "Canberra is the capital of Australia."
+            },
+            {
+            "title": "Australia",
+            "text": "Australia has coastline on the Tasman Sea."
+            }
+        ],
+        "qid": "hp34"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Wellington?",
+        "gold_answer": "Pacific Ocean",
+        "context": [
+            {
+            "title": "Wellington",
+            "text": "Wellington is the capital of New Zealand."
+            },
+            {
+            "title": "New Zealand",
+            "text": "New Zealand has coastline on the Pacific Ocean."
+            }
+        ],
+        "qid": "hp35"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Cairo?",
+        "gold_answer": "Mediterranean Sea",
+        "context": [
+            {
+            "title": "Cairo",
+            "text": "Cairo is the capital of Egypt."
+            },
+            {
+            "title": "Egypt",
+            "text": "Egypt has coastline on the Mediterranean Sea."
+            }
+        ],
+        "qid": "hp36"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Rabat?",
+        "gold_answer": "Atlantic Ocean",
+        "context": [
+            {
+            "title": "Rabat",
+            "text": "Rabat is the capital of Morocco."
+            },
+            {
+            "title": "Morocco",
+            "text": "Morocco has coastline on the Atlantic Ocean."
+            }
+        ],
+        "qid": "hp37"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Algiers?",
+        "gold_answer": "Mediterranean Sea",
+        "context": [
+            {
+            "title": "Algiers",
+            "text": "Algiers is the capital of Algeria."
+            },
+            {
+            "title": "Algeria",
+            "text": "Algeria has coastline on the Mediterranean Sea."
+            }
+        ],
+        "qid": "hp38"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Tunis?",
+        "gold_answer": "Mediterranean Sea",
+        "context": [
+            {
+            "title": "Tunis",
+            "text": "Tunis is the capital of Tunisia."
+            },
+            {
+            "title": "Tunisia",
+            "text": "Tunisia has coastline on the Mediterranean Sea."
+            }
+        ],
+        "qid": "hp39"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Tripoli?",
+        "gold_answer": "Mediterranean Sea",
+        "context": [
+            {
+            "title": "Tripoli",
+            "text": "Tripoli is the capital of Libya."
+            },
+            {
+            "title": "Libya",
+            "text": "Libya has coastline on the Mediterranean Sea."
+            }
+        ],
+        "qid": "hp40"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Athens?",
+        "gold_answer": "Aegean Sea",
+        "context": [
+            {
+            "title": "Athens",
+            "text": "Athens is the capital of Greece."
+            },
+            {
+            "title": "Greece",
+            "text": "Greece has coastline on the Aegean Sea."
+            }
+        ],
+        "qid": "hp41"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Rome?",
+        "gold_answer": "Tyrrhenian Sea",
+        "context": [
+            {
+            "title": "Rome",
+            "text": "Rome is the capital of Italy."
+            },
+            {
+            "title": "Italy",
+            "text": "Italy has coastline on the Tyrrhenian Sea."
+            }
+        ],
+        "qid": "hp42"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Lisbon?",
+        "gold_answer": "Atlantic Ocean",
+        "context": [
+            {
+            "title": "Lisbon",
+            "text": "Lisbon is the capital of Portugal."
+            },
+            {
+            "title": "Portugal",
+            "text": "Portugal has coastline on the Atlantic Ocean."
+            }
+        ],
+        "qid": "hp43"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Dublin?",
+        "gold_answer": "Atlantic Ocean",
+        "context": [
+            {
+            "title": "Dublin",
+            "text": "Dublin is the capital of Ireland."
+            },
+            {
+            "title": "Ireland",
+            "text": "Ireland has coastline on the Atlantic Ocean."
+            }
+        ],
+        "qid": "hp44"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Oslo?",
+        "gold_answer": "North Sea",
+        "context": [
+            {
+            "title": "Oslo",
+            "text": "Oslo is the capital of Norway."
+            },
+            {
+            "title": "Norway",
+            "text": "Norway has coastline on the North Sea."
+            }
+        ],
+        "qid": "hp45"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Stockholm?",
+        "gold_answer": "Baltic Sea",
+        "context": [
+            {
+            "title": "Stockholm",
+            "text": "Stockholm is the capital of Sweden."
+            },
+            {
+            "title": "Sweden",
+            "text": "Sweden has coastline on the Baltic Sea."
+            }
+        ],
+        "qid": "hp46"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Helsinki?",
+        "gold_answer": "Baltic Sea",
+        "context": [
+            {
+            "title": "Helsinki",
+            "text": "Helsinki is the capital of Finland."
+            },
+            {
+            "title": "Finland",
+            "text": "Finland has coastline on the Baltic Sea."
+            }
+        ],
+        "qid": "hp47"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sea or ocean borders the country whose capital is Tallinn?",
+        "gold_answer": "Baltic Sea",
+        "context": [
+            {
+            "title": "Tallinn",
+            "text": "Tallinn is the capital of Estonia."
+            },
+            {
+            "title": "Estonia",
+            "text": "Estonia has coastline on the Baltic Sea."
+            }
+        ],
+        "qid": "hp48"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of Frankenstein attend or teach at?",
+        "gold_answer": "University College London",
+        "context": [
+            {
+            "title": "Frankenstein",
+            "text": "Frankenstein was written by Mary Shelley."
+            },
+            {
+            "title": "Mary Shelley",
+            "text": "Mary Shelley studied at or taught at University College London."
+            }
+        ],
+        "qid": "hp49"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of The Chronicles of Narnia attend or teach at?",
+        "gold_answer": "University of Oxford",
+        "context": [
+            {
+            "title": "The Chronicles of Narnia",
+            "text": "The Chronicles of Narnia was written by C. S. Lewis."
+            },
+            {
+            "title": "C. S. Lewis",
+            "text": "C. S. Lewis studied at or taught at University of Oxford."
+            }
+        ],
+        "qid": "hp50"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of The Name of the Rose attend or teach at?",
+        "gold_answer": "University of Bologna",
+        "context": [
+            {
+            "title": "The Name of the Rose",
+            "text": "The Name of the Rose was written by Umberto Eco."
+            },
+            {
+            "title": "Umberto Eco",
+            "text": "Umberto Eco studied at or taught at University of Bologna."
+            }
+        ],
+        "qid": "hp51"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of Lolita attend or teach at?",
+        "gold_answer": "Cornell University",
+        "context": [
+            {
+            "title": "Lolita",
+            "text": "Lolita was written by Vladimir Nabokov."
+            },
+            {
+            "title": "Vladimir Nabokov",
+            "text": "Vladimir Nabokov studied at or taught at Cornell University."
+            }
+        ],
+        "qid": "hp52"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of Things Fall Apart attend or teach at?",
+        "gold_answer": "University of Nigeria",
+        "context": [
+            {
+            "title": "Things Fall Apart",
+            "text": "Things Fall Apart was written by Chinua Achebe."
+            },
+            {
+            "title": "Chinua Achebe",
+            "text": "Chinua Achebe studied at or taught at University of Nigeria."
+            }
+        ],
+        "qid": "hp53"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of Beloved attend or teach at?",
+        "gold_answer": "Princeton University",
+        "context": [
+            {
+            "title": "Beloved",
+            "text": "Beloved was written by Toni Morrison."
+            },
+            {
+            "title": "Toni Morrison",
+            "text": "Toni Morrison studied at or taught at Princeton University."
+            }
+        ],
+        "qid": "hp54"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of Never Let Me Go attend or teach at?",
+        "gold_answer": "University of East Anglia",
+        "context": [
+            {
+            "title": "Never Let Me Go",
+            "text": "Never Let Me Go was written by Kazuo Ishiguro."
+            },
+            {
+            "title": "Kazuo Ishiguro",
+            "text": "Kazuo Ishiguro studied at or taught at University of East Anglia."
+            }
+        ],
+        "qid": "hp55"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of The Unbearable Lightness of Being attend or teach at?",
+        "gold_answer": "Charles University",
+        "context": [
+            {
+            "title": "The Unbearable Lightness of Being",
+            "text": "The Unbearable Lightness of Being was written by Milan Kundera."
+            },
+            {
+            "title": "Milan Kundera",
+            "text": "Milan Kundera studied at or taught at Charles University."
+            }
+        ],
+        "qid": "hp56"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of My Name Is Red attend or teach at?",
+        "gold_answer": "Istanbul Technical University",
+        "context": [
+            {
+            "title": "My Name Is Red",
+            "text": "My Name Is Red was written by Orhan Pamuk."
+            },
+            {
+            "title": "Orhan Pamuk",
+            "text": "Orhan Pamuk studied at or taught at Istanbul Technical University."
+            }
+        ],
+        "qid": "hp57"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of The Handmaids Tale attend or teach at?",
+        "gold_answer": "University of Toronto",
+        "context": [
+            {
+            "title": "The Handmaids Tale",
+            "text": "The Handmaids Tale was written by Margaret Atwood."
+            },
+            {
+            "title": "Margaret Atwood",
+            "text": "Margaret Atwood studied at or taught at University of Toronto."
+            }
+        ],
+        "qid": "hp58"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of Atonement attend or teach at?",
+        "gold_answer": "University of East Anglia",
+        "context": [
+            {
+            "title": "Atonement",
+            "text": "Atonement was written by Ian McEwan."
+            },
+            {
+            "title": "Ian McEwan",
+            "text": "Ian McEwan studied at or taught at University of East Anglia."
+            }
+        ],
+        "qid": "hp59"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of Midnights Children attend or teach at?",
+        "gold_answer": "University of Cambridge",
+        "context": [
+            {
+            "title": "Midnights Children",
+            "text": "Midnights Children was written by Salman Rushdie."
+            },
+            {
+            "title": "Salman Rushdie",
+            "text": "Salman Rushdie studied at or taught at University of Cambridge."
+            }
+        ],
+        "qid": "hp60"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of The God of Small Things attend or teach at?",
+        "gold_answer": "Delhi School of Architecture",
+        "context": [
+            {
+            "title": "The God of Small Things",
+            "text": "The God of Small Things was written by Arundhati Roy."
+            },
+            {
+            "title": "Arundhati Roy",
+            "text": "Arundhati Roy studied at or taught at Delhi School of Architecture."
+            }
+        ],
+        "qid": "hp61"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of Kafka on the Shore attend or teach at?",
+        "gold_answer": "Waseda University",
+        "context": [
+            {
+            "title": "Kafka on the Shore",
+            "text": "Kafka on the Shore was written by Haruki Murakami."
+            },
+            {
+            "title": "Haruki Murakami",
+            "text": "Haruki Murakami studied at or taught at Waseda University."
+            }
+        ],
+        "qid": "hp62"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of Disgrace attend or teach at?",
+        "gold_answer": "University of Cape Town",
+        "context": [
+            {
+            "title": "Disgrace",
+            "text": "Disgrace was written by J. M. Coetzee."
+            },
+            {
+            "title": "J. M. Coetzee",
+            "text": "J. M. Coetzee studied at or taught at University of Cape Town."
+            }
+        ],
+        "qid": "hp63"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of Palace Walk attend or teach at?",
+        "gold_answer": "Cairo University",
+        "context": [
+            {
+            "title": "Palace Walk",
+            "text": "Palace Walk was written by Naguib Mahfouz."
+            },
+            {
+            "title": "Naguib Mahfouz",
+            "text": "Naguib Mahfouz studied at or taught at Cairo University."
+            }
+        ],
+        "qid": "hp64"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of My Brilliant Friend attend or teach at?",
+        "gold_answer": "University of Naples Federico II",
+        "context": [
+            {
+            "title": "My Brilliant Friend",
+            "text": "My Brilliant Friend was written by Elena Ferrante."
+            },
+            {
+            "title": "Elena Ferrante",
+            "text": "Elena Ferrante studied at or taught at University of Naples Federico II."
+            }
+        ],
+        "qid": "hp65"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of The House of the Spirits attend or teach at?",
+        "gold_answer": "University of Chile",
+        "context": [
+            {
+            "title": "The House of the Spirits",
+            "text": "The House of the Spirits was written by Isabel Allende."
+            },
+            {
+            "title": "Isabel Allende",
+            "text": "Isabel Allende studied at or taught at University of Chile."
+            }
+        ],
+        "qid": "hp66"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of The Tin Drum attend or teach at?",
+        "gold_answer": "Kunstakademie Dusseldorf",
+        "context": [
+            {
+            "title": "The Tin Drum",
+            "text": "The Tin Drum was written by Gunter Grass."
+            },
+            {
+            "title": "Gunter Grass",
+            "text": "Gunter Grass studied at or taught at Kunstakademie Dusseldorf."
+            }
+        ],
+        "qid": "hp67"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which university did the author of The Shadow Lines attend or teach at?",
+        "gold_answer": "University of Delhi",
+        "context": [
+            {
+            "title": "The Shadow Lines",
+            "text": "The Shadow Lines was written by Amitav Ghosh."
+            },
+            {
+            "title": "Amitav Ghosh",
+            "text": "Amitav Ghosh studied at or taught at University of Delhi."
+            }
+        ],
+        "qid": "hp68"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Machu Picchu is located?",
+        "gold_answer": "sol",
+        "context": [
+            {
+            "title": "Machu Picchu",
+            "text": "Machu Picchu is located in Peru."
+            },
+            {
+            "title": "Peru",
+            "text": "The currency of Peru is the sol."
+            }
+        ],
+        "qid": "hp69"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Chichen Itza is located?",
+        "gold_answer": "Mexican peso",
+        "context": [
+            {
+            "title": "Chichen Itza",
+            "text": "Chichen Itza is located in Mexico."
+            },
+            {
+            "title": "Mexico",
+            "text": "The currency of Mexico is the Mexican peso."
+            }
+        ],
+        "qid": "hp70"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Angkor Wat is located?",
+        "gold_answer": "riel",
+        "context": [
+            {
+            "title": "Angkor Wat",
+            "text": "Angkor Wat is located in Cambodia."
+            },
+            {
+            "title": "Cambodia",
+            "text": "The currency of Cambodia is the riel."
+            }
+        ],
+        "qid": "hp71"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Taj Mahal is located?",
+        "gold_answer": "Indian rupee",
+        "context": [
+            {
+            "title": "Taj Mahal",
+            "text": "Taj Mahal is located in India."
+            },
+            {
+            "title": "India",
+            "text": "The currency of India is the Indian rupee."
+            }
+        ],
+        "qid": "hp72"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Burj Khalifa is located?",
+        "gold_answer": "UAE dirham",
+        "context": [
+            {
+            "title": "Burj Khalifa",
+            "text": "Burj Khalifa is located in United Arab Emirates."
+            },
+            {
+            "title": "United Arab Emirates",
+            "text": "The currency of United Arab Emirates is the UAE dirham."
+            }
+        ],
+        "qid": "hp73"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Eiffel Tower is located?",
+        "gold_answer": "euro",
+        "context": [
+            {
+            "title": "Eiffel Tower",
+            "text": "Eiffel Tower is located in France."
+            },
+            {
+            "title": "France",
+            "text": "The currency of France is the euro."
+            }
+        ],
+        "qid": "hp74"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Colosseum is located?",
+        "gold_answer": "euro",
+        "context": [
+            {
+            "title": "Colosseum",
+            "text": "Colosseum is located in Italy."
+            },
+            {
+            "title": "Italy",
+            "text": "The currency of Italy is the euro."
+            }
+        ],
+        "qid": "hp75"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Brandenburg Gate is located?",
+        "gold_answer": "euro",
+        "context": [
+            {
+            "title": "Brandenburg Gate",
+            "text": "Brandenburg Gate is located in Germany."
+            },
+            {
+            "title": "Germany",
+            "text": "The currency of Germany is the euro."
+            }
+        ],
+        "qid": "hp76"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Sagrada Familia is located?",
+        "gold_answer": "euro",
+        "context": [
+            {
+            "title": "Sagrada Familia",
+            "text": "Sagrada Familia is located in Spain."
+            },
+            {
+            "title": "Spain",
+            "text": "The currency of Spain is the euro."
+            }
+        ],
+        "qid": "hp77"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Acropolis of Athens is located?",
+        "gold_answer": "euro",
+        "context": [
+            {
+            "title": "Acropolis of Athens",
+            "text": "Acropolis of Athens is located in Greece."
+            },
+            {
+            "title": "Greece",
+            "text": "The currency of Greece is the euro."
+            }
+        ],
+        "qid": "hp78"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Stonehenge is located?",
+        "gold_answer": "pound sterling",
+        "context": [
+            {
+            "title": "Stonehenge",
+            "text": "Stonehenge is located in United Kingdom."
+            },
+            {
+            "title": "United Kingdom",
+            "text": "The currency of United Kingdom is the pound sterling."
+            }
+        ],
+        "qid": "hp79"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Christ the Redeemer is located?",
+        "gold_answer": "Brazilian real",
+        "context": [
+            {
+            "title": "Christ the Redeemer",
+            "text": "Christ the Redeemer is located in Brazil."
+            },
+            {
+            "title": "Brazil",
+            "text": "The currency of Brazil is the Brazilian real."
+            }
+        ],
+        "qid": "hp80"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Table Mountain is located?",
+        "gold_answer": "South African rand",
+        "context": [
+            {
+            "title": "Table Mountain",
+            "text": "Table Mountain is located in South Africa."
+            },
+            {
+            "title": "South Africa",
+            "text": "The currency of South Africa is the South African rand."
+            }
+        ],
+        "qid": "hp81"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Petronas Towers is located?",
+        "gold_answer": "Malaysian ringgit",
+        "context": [
+            {
+            "title": "Petronas Towers",
+            "text": "Petronas Towers is located in Malaysia."
+            },
+            {
+            "title": "Malaysia",
+            "text": "The currency of Malaysia is the Malaysian ringgit."
+            }
+        ],
+        "qid": "hp82"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Hagia Sophia is located?",
+        "gold_answer": "Turkish lira",
+        "context": [
+            {
+            "title": "Hagia Sophia",
+            "text": "Hagia Sophia is located in Turkey."
+            },
+            {
+            "title": "Turkey",
+            "text": "The currency of Turkey is the Turkish lira."
+            }
+        ],
+        "qid": "hp83"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Mount Fuji is located?",
+        "gold_answer": "yen",
+        "context": [
+            {
+            "title": "Mount Fuji",
+            "text": "Mount Fuji is located in Japan."
+            },
+            {
+            "title": "Japan",
+            "text": "The currency of Japan is the yen."
+            }
+        ],
+        "qid": "hp84"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where CN Tower is located?",
+        "gold_answer": "Canadian dollar",
+        "context": [
+            {
+            "title": "CN Tower",
+            "text": "CN Tower is located in Canada."
+            },
+            {
+            "title": "Canada",
+            "text": "The currency of Canada is the Canadian dollar."
+            }
+        ],
+        "qid": "hp85"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Statue of Liberty is located?",
+        "gold_answer": "US dollar",
+        "context": [
+            {
+            "title": "Statue of Liberty",
+            "text": "Statue of Liberty is located in United States."
+            },
+            {
+            "title": "United States",
+            "text": "The currency of United States is the US dollar."
+            }
+        ],
+        "qid": "hp86"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Moai of Easter Island is located?",
+        "gold_answer": "Chilean peso",
+        "context": [
+            {
+            "title": "Moai of Easter Island",
+            "text": "Moai of Easter Island is located in Chile."
+            },
+            {
+            "title": "Chile",
+            "text": "The currency of Chile is the Chilean peso."
+            }
+        ],
+        "qid": "hp87"
+    },
+    {
+        "difficulty": "medium",
+        "question": "What currency is used in the country where Sydney Opera House is located?",
+        "gold_answer": "Australian dollar",
+        "context": [
+            {
+            "title": "Sydney Opera House",
+            "text": "Sydney Opera House is located in Australia."
+            },
+            {
+            "title": "Australia",
+            "text": "The currency of Australia is the Australian dollar."
+            }
+        ],
+        "qid": "hp88"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Romania belong to?",
+        "gold_answer": "Romance",
+        "context": [
+            {
+            "title": "Romania",
+            "text": "The official language of Romania is Romanian."
+            },
+            {
+            "title": "Romanian",
+            "text": "Romanian belongs to the Romance language family."
+            }
+        ],
+        "qid": "hp89"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Italy belong to?",
+        "gold_answer": "Romance",
+        "context": [
+            {
+            "title": "Italy",
+            "text": "The official language of Italy is Italian."
+            },
+            {
+            "title": "Italian",
+            "text": "Italian belongs to the Romance language family."
+            }
+        ],
+        "qid": "hp90"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Spain belong to?",
+        "gold_answer": "Romance",
+        "context": [
+            {
+            "title": "Spain",
+            "text": "The official language of Spain is Spanish."
+            },
+            {
+            "title": "Spanish",
+            "text": "Spanish belongs to the Romance language family."
+            }
+        ],
+        "qid": "hp91"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of France belong to?",
+        "gold_answer": "Romance",
+        "context": [
+            {
+            "title": "France",
+            "text": "The official language of France is French."
+            },
+            {
+            "title": "French",
+            "text": "French belongs to the Romance language family."
+            }
+        ],
+        "qid": "hp92"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Germany belong to?",
+        "gold_answer": "Germanic",
+        "context": [
+            {
+            "title": "Germany",
+            "text": "The official language of Germany is German."
+            },
+            {
+            "title": "German",
+            "text": "German belongs to the Germanic language family."
+            }
+        ],
+        "qid": "hp93"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Netherlands belong to?",
+        "gold_answer": "Germanic",
+        "context": [
+            {
+            "title": "Netherlands",
+            "text": "The official language of Netherlands is Dutch."
+            },
+            {
+            "title": "Dutch",
+            "text": "Dutch belongs to the Germanic language family."
+            }
+        ],
+        "qid": "hp94"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Sweden belong to?",
+        "gold_answer": "Germanic",
+        "context": [
+            {
+            "title": "Sweden",
+            "text": "The official language of Sweden is Swedish."
+            },
+            {
+            "title": "Swedish",
+            "text": "Swedish belongs to the Germanic language family."
+            }
+        ],
+        "qid": "hp95"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Denmark belong to?",
+        "gold_answer": "Germanic",
+        "context": [
+            {
+            "title": "Denmark",
+            "text": "The official language of Denmark is Danish."
+            },
+            {
+            "title": "Danish",
+            "text": "Danish belongs to the Germanic language family."
+            }
+        ],
+        "qid": "hp96"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Poland belong to?",
+        "gold_answer": "Slavic",
+        "context": [
+            {
+            "title": "Poland",
+            "text": "The official language of Poland is Polish."
+            },
+            {
+            "title": "Polish",
+            "text": "Polish belongs to the Slavic language family."
+            }
+        ],
+        "qid": "hp97"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Czech Republic belong to?",
+        "gold_answer": "Slavic",
+        "context": [
+            {
+            "title": "Czech Republic",
+            "text": "The official language of Czech Republic is Czech."
+            },
+            {
+            "title": "Czech",
+            "text": "Czech belongs to the Slavic language family."
+            }
+        ],
+        "qid": "hp98"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Slovakia belong to?",
+        "gold_answer": "Slavic",
+        "context": [
+            {
+            "title": "Slovakia",
+            "text": "The official language of Slovakia is Slovak."
+            },
+            {
+            "title": "Slovak",
+            "text": "Slovak belongs to the Slavic language family."
+            }
+        ],
+        "qid": "hp99"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Croatia belong to?",
+        "gold_answer": "Slavic",
+        "context": [
+            {
+            "title": "Croatia",
+            "text": "The official language of Croatia is Croatian."
+            },
+            {
+            "title": "Croatian",
+            "text": "Croatian belongs to the Slavic language family."
+            }
+        ],
+        "qid": "hp100"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Greece belong to?",
+        "gold_answer": "Hellenic",
+        "context": [
+            {
+            "title": "Greece",
+            "text": "The official language of Greece is Greek."
+            },
+            {
+            "title": "Greek",
+            "text": "Greek belongs to the Hellenic language family."
+            }
+        ],
+        "qid": "hp101"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Hungary belong to?",
+        "gold_answer": "Uralic",
+        "context": [
+            {
+            "title": "Hungary",
+            "text": "The official language of Hungary is Hungarian."
+            },
+            {
+            "title": "Hungarian",
+            "text": "Hungarian belongs to the Uralic language family."
+            }
+        ],
+        "qid": "hp102"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Finland belong to?",
+        "gold_answer": "Uralic",
+        "context": [
+            {
+            "title": "Finland",
+            "text": "The official language of Finland is Finnish."
+            },
+            {
+            "title": "Finnish",
+            "text": "Finnish belongs to the Uralic language family."
+            }
+        ],
+        "qid": "hp103"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Estonia belong to?",
+        "gold_answer": "Uralic",
+        "context": [
+            {
+            "title": "Estonia",
+            "text": "The official language of Estonia is Estonian."
+            },
+            {
+            "title": "Estonian",
+            "text": "Estonian belongs to the Uralic language family."
+            }
+        ],
+        "qid": "hp104"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Turkey belong to?",
+        "gold_answer": "Turkic",
+        "context": [
+            {
+            "title": "Turkey",
+            "text": "The official language of Turkey is Turkish."
+            },
+            {
+            "title": "Turkish",
+            "text": "Turkish belongs to the Turkic language family."
+            }
+        ],
+        "qid": "hp105"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Kazakhstan belong to?",
+        "gold_answer": "Turkic",
+        "context": [
+            {
+            "title": "Kazakhstan",
+            "text": "The official language of Kazakhstan is Kazakh."
+            },
+            {
+            "title": "Kazakh",
+            "text": "Kazakh belongs to the Turkic language family."
+            }
+        ],
+        "qid": "hp106"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Mongolia belong to?",
+        "gold_answer": "Mongolic",
+        "context": [
+            {
+            "title": "Mongolia",
+            "text": "The official language of Mongolia is Mongolian."
+            },
+            {
+            "title": "Mongolian",
+            "text": "Mongolian belongs to the Mongolic language family."
+            }
+        ],
+        "qid": "hp107"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which language family does the official language of Georgia belong to?",
+        "gold_answer": "Kartvelian",
+        "context": [
+            {
+            "title": "Georgia",
+            "text": "The official language of Georgia is Georgian."
+            },
+            {
+            "title": "Georgian",
+            "text": "Georgian belongs to the Kartvelian language family."
+            }
+        ],
+        "qid": "hp108"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to radioactivity also study?",
+        "gold_answer": "chemistry",
+        "context": [
+            {
+            "title": "Marie Curie",
+            "text": "Marie Curie is linked to radioactivity."
+            },
+            {
+            "title": "Marie Curie",
+            "text": "Marie Curie also made major contributions to chemistry."
+            }
+        ],
+        "qid": "hp109"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to the phases of Venus also study?",
+        "gold_answer": "mathematics",
+        "context": [
+            {
+            "title": "Galileo Galilei",
+            "text": "Galileo Galilei is linked to the phases of Venus."
+            },
+            {
+            "title": "Galileo Galilei",
+            "text": "Galileo Galilei also made major contributions to mathematics."
+            }
+        ],
+        "qid": "hp110"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to planetary motion laws also study?",
+        "gold_answer": "mathematics",
+        "context": [
+            {
+            "title": "Johannes Kepler",
+            "text": "Johannes Kepler is linked to planetary motion laws."
+            },
+            {
+            "title": "Johannes Kepler",
+            "text": "Johannes Kepler also made major contributions to mathematics."
+            }
+        ],
+        "qid": "hp111"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to Pascals law also study?",
+        "gold_answer": "philosophy",
+        "context": [
+            {
+            "title": "Blaise Pascal",
+            "text": "Blaise Pascal is linked to Pascals law."
+            },
+            {
+            "title": "Blaise Pascal",
+            "text": "Blaise Pascal also made major contributions to philosophy."
+            }
+        ],
+        "qid": "hp112"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to analytic geometry also study?",
+        "gold_answer": "philosophy",
+        "context": [
+            {
+            "title": "Rene Descartes",
+            "text": "Rene Descartes is linked to analytic geometry."
+            },
+            {
+            "title": "Rene Descartes",
+            "text": "Rene Descartes also made major contributions to philosophy."
+            }
+        ],
+        "qid": "hp113"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to periodic table also study?",
+        "gold_answer": "chemistry",
+        "context": [
+            {
+            "title": "Dmitri Mendeleev",
+            "text": "Dmitri Mendeleev is linked to periodic table."
+            },
+            {
+            "title": "Dmitri Mendeleev",
+            "text": "Dmitri Mendeleev also made major contributions to chemistry."
+            }
+        ],
+        "qid": "hp114"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to electromagnetic induction also study?",
+        "gold_answer": "chemistry",
+        "context": [
+            {
+            "title": "Michael Faraday",
+            "text": "Michael Faraday is linked to electromagnetic induction."
+            },
+            {
+            "title": "Michael Faraday",
+            "text": "Michael Faraday also made major contributions to chemistry."
+            }
+        ],
+        "qid": "hp115"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to electromagnetic theory also study?",
+        "gold_answer": "mathematics",
+        "context": [
+            {
+            "title": "James Clerk Maxwell",
+            "text": "James Clerk Maxwell is linked to electromagnetic theory."
+            },
+            {
+            "title": "James Clerk Maxwell",
+            "text": "James Clerk Maxwell also made major contributions to mathematics."
+            }
+        ],
+        "qid": "hp116"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to wave equation also study?",
+        "gold_answer": "philosophy",
+        "context": [
+            {
+            "title": "Erwin Schrodinger",
+            "text": "Erwin Schrodinger is linked to wave equation."
+            },
+            {
+            "title": "Erwin Schrodinger",
+            "text": "Erwin Schrodinger also made major contributions to philosophy."
+            }
+        ],
+        "qid": "hp117"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to uncertainty principle also study?",
+        "gold_answer": "mathematics",
+        "context": [
+            {
+            "title": "Werner Heisenberg",
+            "text": "Werner Heisenberg is linked to uncertainty principle."
+            },
+            {
+            "title": "Werner Heisenberg",
+            "text": "Werner Heisenberg also made major contributions to mathematics."
+            }
+        ],
+        "qid": "hp118"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to DNA structure evidence also study?",
+        "gold_answer": "chemistry",
+        "context": [
+            {
+            "title": "Rosalind Franklin",
+            "text": "Rosalind Franklin is linked to DNA structure evidence."
+            },
+            {
+            "title": "Rosalind Franklin",
+            "text": "Rosalind Franklin also made major contributions to chemistry."
+            }
+        ],
+        "qid": "hp119"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to laws of inheritance also study?",
+        "gold_answer": "botany",
+        "context": [
+            {
+            "title": "Gregor Mendel",
+            "text": "Gregor Mendel is linked to laws of inheritance."
+            },
+            {
+            "title": "Gregor Mendel",
+            "text": "Gregor Mendel also made major contributions to botany."
+            }
+        ],
+        "qid": "hp120"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to computability theory also study?",
+        "gold_answer": "mathematics",
+        "context": [
+            {
+            "title": "Alan Turing",
+            "text": "Alan Turing is linked to computability theory."
+            },
+            {
+            "title": "Alan Turing",
+            "text": "Alan Turing also made major contributions to mathematics."
+            }
+        ],
+        "qid": "hp121"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to early computer algorithms also study?",
+        "gold_answer": "mathematics",
+        "context": [
+            {
+            "title": "Ada Lovelace",
+            "text": "Ada Lovelace is linked to early computer algorithms."
+            },
+            {
+            "title": "Ada Lovelace",
+            "text": "Ada Lovelace also made major contributions to mathematics."
+            }
+        ],
+        "qid": "hp122"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to optics also study?",
+        "gold_answer": "mathematics",
+        "context": [
+            {
+            "title": "Ibn al-Haytham",
+            "text": "Ibn al-Haytham is linked to optics."
+            },
+            {
+            "title": "Ibn al-Haytham",
+            "text": "Ibn al-Haytham also made major contributions to mathematics."
+            }
+        ],
+        "qid": "hp123"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to The Canon of Medicine also study?",
+        "gold_answer": "philosophy",
+        "context": [
+            {
+            "title": "Avicenna",
+            "text": "Avicenna is linked to The Canon of Medicine."
+            },
+            {
+            "title": "Avicenna",
+            "text": "Avicenna also made major contributions to philosophy."
+            }
+        ],
+        "qid": "hp124"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to geodesy also study?",
+        "gold_answer": "astronomy",
+        "context": [
+            {
+            "title": "Al-Biruni",
+            "text": "Al-Biruni is linked to geodesy."
+            },
+            {
+            "title": "Al-Biruni",
+            "text": "Al-Biruni also made major contributions to astronomy."
+            }
+        ],
+        "qid": "hp125"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to principle of buoyancy also study?",
+        "gold_answer": "mathematics",
+        "context": [
+            {
+            "title": "Archimedes",
+            "text": "Archimedes is linked to principle of buoyancy."
+            },
+            {
+            "title": "Archimedes",
+            "text": "Archimedes also made major contributions to mathematics."
+            }
+        ],
+        "qid": "hp126"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to Pythagorean theorem also study?",
+        "gold_answer": "philosophy",
+        "context": [
+            {
+            "title": "Pythagoras",
+            "text": "Pythagoras is linked to Pythagorean theorem."
+            },
+            {
+            "title": "Pythagoras",
+            "text": "Pythagoras also made major contributions to philosophy."
+            }
+        ],
+        "qid": "hp127"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Besides physics or primary science, what other field did the scholar linked to commentaries on mathematics also study?",
+        "gold_answer": "astronomy",
+        "context": [
+            {
+            "title": "Hypatia",
+            "text": "Hypatia is linked to commentaries on mathematics."
+            },
+            {
+            "title": "Hypatia",
+            "text": "Hypatia also made major contributions to astronomy."
+            }
+        ],
+        "qid": "hp128"
+    }
+]
